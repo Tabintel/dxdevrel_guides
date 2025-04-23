@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Developer Advocacy Guide",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -9,70 +9,33 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "tabs": [   
       {
-        "tab": "Guides",
+        "tab": "The Knowledge Base for Developer Advocates",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Core Topics",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+              "what-is-devrel",
+              "developer-advocacy",
+              "developer-experience",
+              "community-building",
+              "measuring-devrel"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Deep Dives",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "career-pathways",
+              "case-studies",
+              "resources",
+              "community-authors"
             ]
           }
         ]
       }
     ],
     "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
     }
   },
   "logo": {
@@ -88,7 +51,7 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Discord",
       "href": "https://dashboard.mintlify.com"
     }
   },

@@ -1,34 +1,54 @@
-# Mintlify Starter Kit
+# Developer Relations Knowledge Base
 
-## Developer Relations
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+A community-maintained hub of DevRel best practices, guides, and resources in the field of Developer Relations.
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+------
 
-### Development
+# Contributing to DX DevRel Guide
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+Thanks for your interest in contributing! Here's how to get started:
 
-```
-npm i -g mintlify
-```
+## 🧰 Setup
 
-Run the following command at the root of your documentation (where docs.json is)
+1. Fork the repository
+2. Clone your fork: `git clone https://github.com/yourusername/dx-devrel-guide.git`
+3. Install the Mintlify CLI to preview the documentation changes locally: ` npm i -g mintlify`
+4. Start the dev server: `mintlify dev`
 
-```
-mintlify dev
-```
+## ✍️ Writing Content
 
-### Publishing Changes
+- All docs are in the `docs/` folder.
+- Follow the file naming conventions: `lowercase-with-dashes.mdx`
+- Use `---` frontmatter for the title, e.g.:
 
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
+```mdx
+---
+title: Developer Advocacy
+---
 
-#### Troubleshooting
+## Public Speaking
+...
 
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+
+## ✨ Bonus: Breakdown of an `.mdx` Page
+
+Here’s a starter for `developer-advocacy.mdx`:
+
+```mdx
+---
+title: Developer Advocacy
+---
+
+## Public Speaking
+
+How DevRel professionals speak at conferences to build awareness and trust.
+
+## Content Creation
+
+Creating blog posts, videos, and tutorials.
+
+## Developer Champions
+
+Empowering community members to represent the product.
