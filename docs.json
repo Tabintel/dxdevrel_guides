@@ -22,11 +22,76 @@
             ]
           },
           {
-            "group": "Welcome and Introduction",
+            "group": "What is Developer Relations",
             "pages": [
-              "what-is-dxmentorship",
-              "purpose-of-the-guide",
-              "how-to-contribute"
+              "definitions-and-origins",
+              "core-pillars",
+              "why-devrel-matters"
+            ]
+          },
+          {
+            "group": "Developer Advocacy",
+            "pages": [
+              "public-speaking",
+              "content-creation",
+              "developer-champions"
+            ]
+          },
+          {
+            "group": "Developer Experience",
+            "pages": [
+              "tooling-dx-audits",
+              "documentation-best-practices",
+              "feedback-collection"
+            ]
+          },
+          {
+            "group": "Community Building",
+            "pages": [
+              "events-and-meetups",
+              "online-community-management",
+              "onboarding-retention-strategies"
+            ]
+          },
+          {
+            "group": "Measuring DevRel Impact",
+            "pages": [
+              "kpi-and-okrs",
+              "qualitative-vs-quantitative-metrics",
+              "reporting-to-leadership"
+            ]
+          },
+          {
+            "group": "Career Pathways in DevRel",
+            "pages": [
+              "roles-in-devrel",
+              "skills-and-tools",
+              "breaking-into-devrel"
+            ]
+          },
+          {
+            "group": "Case Studies and Stories",
+            "pages": [
+              "real-life-examples",
+              "lessons-learned",
+              "tools-we-love"
+            ]
+          },
+          {
+            "group": "Resources and Further Reading",
+            "pages": [
+              "books",
+              "podcast-and-youtube",
+              "communities-to-join",
+              "courses"
+            ]
+          },
+          {
+            "group": "Community Authors",
+            "pages": [
+              "list-of-contributors",
+              "github-profiles",
+              "linkedin-portfolios-links"
             ]
           },
           {
