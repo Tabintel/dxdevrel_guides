@@ -14,12 +14,12 @@
         "tab": "The Knowledge Base for Developer Advocates",
         "groups": [
           {
-            "group": "Core Topics",
+            "group": "Welcome and Introduction",
             "pages": [
               "what-is-devrel",
+              "community-building",
               "developer-advocacy",
               "developer-experience",
-              "community-building",
               "measuring-devrel"
             ]
           },
@@ -30,6 +30,12 @@
               "case-studies",
               "resources",
               "community-authors"
+            ]
+          },
+          {
+            "group": "Jobs",
+            "pages": [
+              "jobs-in-devrel"
             ]
           }
         ]
