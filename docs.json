@@ -16,11 +16,17 @@
           {
             "group": "Welcome and Introduction",
             "pages": [
-              "what-is-devrel",
-              "community-building",
-              "developer-advocacy",
-              "developer-experience",
-              "measuring-devrel"
+              "what-is-dxmentorship",
+              "purpose-of-the-guide",
+              "how-to-contribute"
+            ]
+          },
+          {
+            "group": "Welcome and Introduction",
+            "pages": [
+              "what-is-dxmentorship",
+              "purpose-of-the-guide",
+              "how-to-contribute"
             ]
           },
           {
