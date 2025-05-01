@@ -17,7 +17,7 @@
             "group": "Welcome and Introduction",
             "pages": [
               "what-is-dxmentorship",
-              "purpose-of-the-guide",
+              "purpose-of-this-guide",
               "how-to-contribute"
             ]
           },
@@ -105,6 +105,12 @@
             "group": "Jobs",
             "pages": [
               "jobs-in-devrel"
+            ]
+          },
+          {
+            "group": "Dx Mentorship Sessions",
+            "pages": [
+              "dx-mentorship-sessions"
             ]
           }
         ]
