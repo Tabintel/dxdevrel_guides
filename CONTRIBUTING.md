@@ -34,6 +34,20 @@ We want this community to be friendly and respectful to each other. Please follo
        mintlify dev
      ```
 
+
+##  Writing Content
+
+- Follow the file naming conventions: `lowercase-with-dashes.mdx`
+- Use `---` frontmatter for the title, e.g.:
+
+```mdx
+---
+title: Developer Advocacy
+---
+
+## Public Speaking
+...
+```
     
 ## Submitting Changes
 
