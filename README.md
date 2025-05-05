@@ -8,7 +8,7 @@ A community-maintained hub of DevRel best practices, guides, and resources in th
 
 The goal is to co-create a living, evolving resource that documents Developer Relations concepts, strategies, and experiences—built by the DXMentorship community, for the global tech ecosystem. It will showcase the collective knowledge and serve as a high-value project members can add to their portfolios.
 
-------
+---
 
 # Contributing to DX DevRel Guide
 
@@ -33,6 +33,7 @@ title: Developer Advocacy
 ---
 
 ## Public Speaking
+
 ...
 ```
 
@@ -41,52 +42,62 @@ title: Developer Advocacy
 Choose a topic to contribute to with the topic name and assign yourself. Add your name when you start working on them.
 
 ### 0. Welcome & Introduction
+
 - [ ] What is DXMentorship?
 - [ ] Purpose of this guide
 - [ ] How to contribute
 
 ### 1. What is Developer Relations?
-- [ ] Definitions & origins - assigned to Faith 
+
+- [ ] Definitions & origins - assigned to Faith
 - [ ] Core pillars: Advocacy, Enablement, Community, Feedback Loops
 - [ ] Why DevRel matters
 
 ### 2. Developer Advocacy
+
 - [ ] Public speaking
 - [ ] Content creation (blogs, videos, docs)
 - [ ] Developer champions
 
 ### 3. Developer Experience
+
 - [ ] Tooling & DX audits
 - [ ] Documentation best practices
 - [ ] Feedback collection
 
 ### 4. Community Building
+
 - [ ] Events & meetups
 - [ ] Online community management
 - [ ] Onboarding and retention strategies
 
 ### 5. Measuring DevRel Impact
+
 - [ ] KPIs & OKRs
 - [ ] Qualitative vs. Quantitative metrics
 - [ ] Reporting to leadership
 
 ### 6. Career Pathways in DevRel
+
 - [ ] Roles in DevRel (Advocate, Educator, Manager, etc.)
 - [ ] Skills & tools
 - [ ] Breaking into DevRel
 
 ### 7. Case Studies & Stories
+
 - [ ] Real-life examples from the community
 - [ ] Lessons learned
 - [ ] Tools we love
 
 ### 8. Resources & Further Reading
+
 - [ ] Books
 - [ ] Podcasts
 - [ ] Communities to join
 - [ ] Courses
 
 ### 9. Community Authors
+
 - [ ] List of contributors
 - [ ] GitHub profiles
 - [ ] LinkedIn/portfolio links
@@ -124,8 +135,17 @@ Empowering community members to represent the product.
 ### How Everyone Can Contribute
 
 We'll run the documentation effort like a mini open-source project:
+
 1. Each contributor selects a section to work on (from the checklist above).
 2. Contributors submit pull requests via GitHub.
 3. Clan leads and reviewers provide feedback and merge updates.
 4. Contributors are listed in the "Community Authors" section with links to their profiles.
 5. Daily check-ins will help us track progress, support contributors, and celebrate wins.
+
+### Our Top Contributors ✨
+
+**DxDevRel Guides** wouldn't be **DxDevRel Guides** without you. Every contribution counts. Thank you for being part of this journey.
+
+<a href="https://github.com/Tabintel/dxdevrel_guides/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Tabintel/dxdevrel_guides" max={1000} columns={100} anon={1} />
+</a>
