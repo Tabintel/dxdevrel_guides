@@ -112,6 +112,12 @@
             "pages": [
               "dx-mentorship-sessions"
             ]
+          },
+          {
+            "group": "Create Winning DevRel Resumes",
+            "pages": [
+              "DevRel-Resumes"
+            ]
           }
         ]
       }
