@@ -116,7 +116,7 @@
           {
             "group": "Create Winning DevRel Resumes",
             "pages": [
-              "DevRel-Resumes"
+              "devrel-resumes", "how-to-structure-your-devrel-resume"
             ]
           }
         ]
