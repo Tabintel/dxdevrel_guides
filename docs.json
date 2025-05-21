@@ -118,6 +118,12 @@
             "pages": [
               "devrel-resumes", "how-to-structure-your-devrel-resume"
             ]
+          },
+          {
+            "group": "LinkedIn and Personal Branding Best Practices for DevRel Professionals",
+            "pages": [
+               "linkedin-and-personal-branding"
+            ]
           }
         ]
       }
