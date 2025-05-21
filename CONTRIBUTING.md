@@ -52,16 +52,20 @@ title: Developer Advocacy
 ## Submitting Changes
 
 1. **Test your changes**: Ensure that all existing and new tests pass.
-2. **Commit**: Write meaningful commit messages.
+2. **Add your changes to the codebase**:
+```bash
+   git add .
+   ```
+3. **Commit**: Write meaningful commit messages.
    ```bash
    git commit -m "Fix: short description of the fix"
    ```
-3. **Push your branch**:
+4. **Push your branch**:
    ```bash
    git push origin feat/your-feature
    ```
 
-4. **Open a Pull Request**: Once your changes are ready, submit a pull request.
+5. **Open a Pull Request**: Once your changes are ready, submit a pull request.
 
 
 
