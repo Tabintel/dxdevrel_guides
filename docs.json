@@ -104,7 +104,11 @@
           {
             "group": "Jobs",
             "pages": [
-              "jobs-in-devrel"
+              "jobs-in-devrel",
+              "job-search-strategies",
+              "interview-guide",
+              "project-portfolio-examples"
+
             ]
           },
           {
